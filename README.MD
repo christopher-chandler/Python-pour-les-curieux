@@ -16,158 +16,145 @@
 ![Windows][windows-shield] ![Mac][Mac-shield]
 
 
-<h3 align="center">Python pour les Débutants</h3>
+<h3 align="center">Python pour les débutants</h3>
 
   <p align="center">
     Les Jupyter Notebooks sur les bases du langage Python.
     <br />
     <br />
-    <a href="https://github.com/christopher-chandler/Python-Pour-les-Debutants/issues">Report Bug</a>
+    <a href="https://github.com/christopher-chandler/Python-Pour-les-Debutants/issues">Rapport de bogue</a>
     ·
-    <a href="https://github.com/christopher-chandler/Python-Pour-les-Debutants/issues">Request Feature</a>
+    <a href="https://github.com/christopher-chandler/Python-Pour-les-Debutants/issues">Demande de fonctionnalité</a>
   </p>
 </div>
 
-
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
-  <ol>
+  <summary>Table des Matières</summary>
+  
+<ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#Renseignements-sur-ce-projet">Renseignements sur ce projet</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Les-Frameworks">Les Frameworks</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#Pour-commencer">Pour commencer</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Prerequisites">Prerequisites</a></li>
+        <li><a href="#Installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
+    <li><a href="#Usage">Usage</a></li>
+    <li><a href="#Futures fonctionnalités">Futures fonctionnalités</a></li>
+    <li><a href="#Contribution">Contribution</a></li>
+    <li><a href="#License">License</a></li>
+    <li><a href="#Contact">Contact</a></li>
+    <li><a href="#Acknowledgments">Acknowledgments</a></li>
+  
+</ol>
+
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Renseignements sur ce projet
 
 <div align="center">
   <a href="https://github.com/christopher-chandler/Python-Pour-les-Debutants">
     <img src="readme_img/logo.png" alt="Logo" width="80" height="80">
   </a>
 </div>
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Haut de page </a>)</p>
+
+Bonjour, 
+
+Je m'appelle Christopher Chandler et je suis Américain habitant en Allemagne 
+depuis 2011. 
 
 
+### Les Frameworks
 
-### Built With
+Les frameworks avec lesquels j'ai créé ce cours. 
+* [Jupyter Notebooks](https://jupyter.org/)
+ 
 
-A list of frameworks that were used in developing the program. 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+<p align="right">(<a href="#top">Haut de page </a>)</p>
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Pour commencer
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Si vous voulez utiliser, ce n'est pas forcément nécessaire de le télécharger
+parce que vous pouvez le lire sur Github. 
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Si vous voulez lire les cahiers, il faut installer la bibliothèque `jupyter notebooks`
+
+* Jupyter notebooks
+```
+pip install jupyter
+ ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/christopher-chandler/Python-Pour-les-Debutants.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+ 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Haut de page </a>)</p>
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Vous pouvez utiliser ce dépôt pour apprendre le Python. 
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+<p align="right">(<a href="#top">Haut de page </a>)</p>
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Futures fonctionnalités
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Langage Python - qu'est-ce que c'est?
 
-See the [open issues](https://github.com/christopher-chandler/Python-Pour-les-Debutants/issues) for a full list of proposed features (and known issues).
+Voyez [les problèmes non résolus](https://github.com/christopher-chandler/Python-Pour-les-Debutants/issues) 
+pour voir une liste complète de caractéristiques proposées (et de problèmes connus).
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+<p align="right">(<a href="#top">Haut de page </a>)</p>
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Contribution
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+A grâce de contributions, la communauté du logiciel libre est une communauté 
+magnifique où l'on peut apprendre, créer et inspirer les autres. Chaque 
+contribution à ce projet sera **très appréciée**. 
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+Si vous avez une suggestion pour améliorer ce projet, faites un 
+dépôt forké et créez une demande d'extraction. Vous pouvez aussi simplement créer 
+un problème non résolu en utilisant le tag `enhancement`. 
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+N'oubliez pas de donner une étoile à ce projet ! Merci beaucoup pour votre 
+support !
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
+1. Créez un dépôt forké
+2. Créez une branche (`git checkout -b feature/AmazingFeature`)
+3. Commitez vos changements (`git commit -m 'Add some AmazingFeature'`)
+4. Transmettez vos changements vers la branche (`git push origin feature/AmazingFeature`)
+5. Créez une demande d'extraction
+
+<p align="right">(<a href="#top">Haut de page </a>)</p>
 
 
 <!-- LICENSE -->
 ## License
 
 Ce projet est distribué sous la license MIT. Pour obtenir plus d'informations, 
-consultez le fichier `LICENSE` s'il vous plaît. 
+consultez le fichier `LICENSE`, s'il vous plaît. 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+<p align="right">(<a href="#top">Haut de page </a>)</p>
 
 
 <!-- CONTACT -->
@@ -176,7 +163,7 @@ consultez le fichier `LICENSE` s'il vous plaît.
 Christopher Chandler - christopher.chandler@outlook.de
 Lien du projet: [https://github.com/christopher-chandler/Python-Pour-les-Debutants](https://github.com/christopher-chandler/Python-Pour-les-Debutants)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Haut de page </a>)</p>
 
 
 <!-- ACKNOWLEDGMENTS -->
@@ -184,8 +171,7 @@ Lien du projet: [https://github.com/christopher-chandler/Python-Pour-les-Debutan
 
 * Mon amie qui m'a demandé si je pourrais l'aider pour apprendre le langage du python. 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+<p align="right">(<a href="#top">Haut de page </a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -193,15 +179,17 @@ Lien du projet: [https://github.com/christopher-chandler/Python-Pour-les-Debutan
 [contributors-shield]: https://img.shields.io/github/contributors/christopher-chandler/Python-Pour-les-Debutants?color=green&logoColor=%20
 [contributors-url]: https://github.com/christopher-chandler/Python-Pour-les-Debutants/graphs/contributors
 
+
 [stars-shield]: https://img.shields.io/github/stars/christopher-chandler/Python-Pour-les-Debutants?logoColor=yellow&style=social
 [stars-url]: https://github.com/christopher-chandler/Python-Pour-les-Debutants/stargazers
+
 
 [license-shield]: https://img.shields.io/github/license/christopher-chandler/Python-Pour-les-Debutants?color=yellow
 [license-url]: https://github.com/christopher-chandler/Python-Pour-les-Debutants/blob/master/LICENSE
 
-[download-shield]: https://img.shields.io/github/downloads/christopher-chandler/Python-Pour-les-Debutants/total
 
-[windows-shield]:  https://img.shields.io/badge/Windows-Tested-purple 
+[download-shield]: https://img.shields.io/github/downloads/christopher-chandler/Python-Pour-les-Debutants/total
+[windows-shield]: https://img.shields.io/badge/Windows-Tested-purple 
 [mac-shield]: https://img.shields.io/badge/Mac-Tested-purple
 [version-shield]: https://img.shields.io/badge/Version-0.0.1-brightgreen
 [update-shield]: https://img.shields.io/badge/Last_Updated-Mars_2022-blue
