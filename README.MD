@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/christopher-chandler/Python-Pour-les-Debutants">
-    <img src="readme_img/logo.png" alt="Logo" width="80" height="80">
+    <img src="img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 ![Version][Version-shield]  [![MIT License][license-shield]][license-url] ![update][update-shield]
@@ -163,7 +163,8 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Ce projet est distribué sous la license MIT. Pour obtenir plus d'informations, 
+consultez le fichier `LICENSE` s'il vous plaît. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -173,19 +174,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Christopher Chandler - christopher.chandler@outlook.de
-
-Project Link: [https://github.com/christopher-chandler/Python-Pour-les-Debutants](https://github.com/christopher-chandler/Python-Pour-les-Debutants)
+Lien du projet: [https://github.com/christopher-chandler/Python-Pour-les-Debutants](https://github.com/christopher-chandler/Python-Pour-les-Debutants)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* Mon amie qui m'a demandé si je pourrais l'aider pour apprendre le langage du python. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
