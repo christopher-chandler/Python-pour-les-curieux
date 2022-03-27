@@ -255,7 +255,7 @@ Les sources que j'ai utilisées pour créer ce cours :
 [stars-url]: https://github.com/christopher-chandler/Python-pour-les-curieux/stargazers
 
 [license-shield]: https://img.shields.io/github/license/christopher-chandler/Python-pour-les-curieux?color=yellow
-[license-url]: https://github.com/christopher-chandler/Python-pour-les-curieux/blob/master/LICENSE
+[license-url]: https://github.com/christopher-chandler/Python-pour-les-curieux/blob/main/LICENSE
 
 <!-- BASIC SHIELDS -->
 [download-shield]: https://img.shields.io/github/downloads/christopher-chandler/Python-pour-les-curieux/total
