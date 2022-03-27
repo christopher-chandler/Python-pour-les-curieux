@@ -251,7 +251,7 @@ Les sources que j'ai utilisées pour créer ce cours :
 [contributors-shield]: https://img.shields.io/github/contributors/christopher-chandler/Python-pour-les-curieux?color=green&logoColor=%20
 [contributors-url]: https://github.com/christopher-chandler/Python-pour-les-curieux/graphs/contributors
 
-[stars-shield]: https://img.shields.io/github/stars/christopher-chandler/Python-pour-les-curieux?logoColor=yellow&style=social
+[stars-shield]: https://img.shields.io/github/stars/christopher-chandler/Python-pour-les-curieux?style=social
 [stars-url]: https://github.com/christopher-chandler/Python-pour-les-curieux/stargazers
 
 [license-shield]: https://img.shields.io/github/license/christopher-chandler/Python-pour-les-curieux?color=yellow&logoColor=%20
