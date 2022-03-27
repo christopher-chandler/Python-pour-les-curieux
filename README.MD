@@ -19,7 +19,7 @@
 <h3 align="center">Python pour les débutants</h3>
 
   <p align="center">
-    Les Jupyter Notebooks sur les bases du langage Python.
+    Les Jupyter Notebooks pour apprendre les bases du langage Python.
     <br />
     <br />
     <a href="https://github.com/christopher-chandler/Python-Pour-les-Debutants/issues">Rapport de bogue</a>
@@ -30,7 +30,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table des Matières</summary>
+<summary>Table des matières</summary>
   
 <ol>
     <li>
@@ -62,15 +62,21 @@
 
 <div align="center">
   <a href="https://github.com/christopher-chandler/Python-Pour-les-Debutants">
-    <img src="readme_img/logo.png" alt="Logo" width="80" height="80">
-  </a>
+   </a>
 </div>
 <p align="right">(<a href="#top">Haut de page </a>)</p>
 
 Bonjour, 
 
 Je m'appelle Christopher Chandler et je suis Américain habitant en Allemagne 
-depuis 2011. 
+depuis 2011. J'ai étudié 2021 le français et la linguistique informatique à 
+l'université de Bochum parce que j'adore la programmation et la linguistique
+générale. 
+
+Je développe PLD (Python pour les débutants) pour aider ceux qui 
+voudraient apprendre le langage du python. Je presente des explications
+et exercises facile afin que l'on puisse commencer très tôt pour obtenir
+des 
 
 
 ### Les Frameworks
