@@ -9,12 +9,7 @@
     <img src="img/logo.png" alt="Logo" width="150" height="150">
   </a>
 
-![Version][Version-shield]  [![MIT License][license-shield]][license-url] ![update][update-shield]
-
-[![Stargazers][stars-shield]][stars-url]
-
-![Windows][windows-shield] ![Mac][Mac-shield]
-
+ 
 
 <h3 align="center">Python pour les curieux</h3>
 
