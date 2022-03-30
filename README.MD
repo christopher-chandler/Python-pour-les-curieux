@@ -229,7 +229,7 @@ consultez le fichier `LICENSE`, s'il vous plaît.
 <!-- Sources -->
 
 ## Sources
-Les sources que j'ai utilisées pour créer ce cours : 
+Les sources que j'ai utilisées pour créer ce cours: 
 
 Cordeau, B., & Pointal, L. (2018). Une introduction à Python 3 (1.618c). https://perso.limsi.fr/pointal/_media/python:cours:courspython3.pdf
 
